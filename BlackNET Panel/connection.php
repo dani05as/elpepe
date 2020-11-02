@@ -40,16 +40,13 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
     }
 }
 
-function getConteryCode($ipaddress)
+function getCounteryCode($ipaddress)
 {
     $localhost = ['localhost', '127.0.0.1', '::1'];
     $reader = new Reader(APP_PATH . '/vendor/geoip/GeoLite2-City.mmdb');
 
     if (!in_array($ipaddress, $localhost)) {
         $record = $reader->city($ipaddress);
-    }
-
-    if (isset($record)) {
         return strtolower($record->country->isoCode);
     } else {
         return "X";
