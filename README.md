@@ -64,9 +64,7 @@ Developed By: Black.Hacker
  24. Close Client
 
 ## Requirements
-1. PHP >=  7.0
-    + cURL
-    + php_cURL
+1. PHP >=  7.3
 2. NET Framework
     + Stub >= 2.0
     + Builder >= 4.0
