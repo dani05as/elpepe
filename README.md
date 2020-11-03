@@ -96,7 +96,7 @@ If you have BlackNET installed you need
 
 ![](https://j.top4top.io/p_1738jsi5f2.png)
 
-![](https://a.top4top.io/p_1761yfszm1.png)
+![](https://e.top4top.io/p_17686ahd51.png)
 
 ## YouTube Tutorials
 [How to install BlackNET v3.6.0](https://youtu.be/C0YRoLXc26w)
