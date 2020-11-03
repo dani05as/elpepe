@@ -149,7 +149,10 @@ v3.6.0
 ## Coming Soon ⌛
 ```
 v3.6.1
+1. More charts and stats
 ```
+
+![](https://j.top4top.io/p_1768wecce1.png)
 
 ## Thanks to 🙏
 - KFC
