@@ -15,10 +15,12 @@
 # BlackNET 😈
 Free advanced and modern Windows botnet with a nice and secure PHP panel developed using VB.NET.
 
-## About BlackNET 🤓
+## About BlackNET (Daily) 🤓
 Free advanced and modern Windows botnet with a nice and secure PHP panel built using VB.NET.
 
 this botnet controller comes with a lot of features and the most secure panel for free
+
+this branch will contain my day to day commits to the project and it's for testing
 
 Developed By: Black.Hacker
 
