@@ -150,6 +150,9 @@ v3.6.0
 ```
 v3.6.1
 1. More charts and stats
+2. Updating the stub .NET Framework to 4.5
+   + Fixing a lot of HTTP Socket Issues and Stabilty
+   + More room for new features
 ```
 
 ![](https://j.top4top.io/p_1768wecce1.png)
